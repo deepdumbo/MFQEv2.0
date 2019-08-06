@@ -233,6 +233,9 @@ def func_enhance(dir_model_pre, QP, PreIndex_list, CmpIndex_list, SubIndex_list)
             cmp_frame = np.squeeze(cmp_frame)
             enhanced_frame = np.squeeze(enhanced_frame)
             
+            raw_frame = np.float32(raw_frame)
+            cmp_frame = np.float32(cmp_frame)
+            
             psnr_ori = compare_psnr(cmp_frame, raw_frame, data_range=1.0)
             psnr_aft = compare_psnr(enhanced_frame, raw_frame, data_range=1.0)
 
