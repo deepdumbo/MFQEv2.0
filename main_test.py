@@ -5,9 +5,9 @@ from skimage.measure import compare_psnr, compare_ssim
 import net_MFCNN
 
 ### Settings
-dir_CmpVideo = "/home/x/SCI_1/Database/test_18/LDP_HM16.5/QP37/" #"Videos/cmp"
-dir_RawVideo = "/home/x/SCI_1/Database/test_18/raw" #"Videos/ori"
-dir_PQFLabel = "/home/x/SCI_1/MFQEv2.0/Database/PQF_label/estimated/test_18/QP37/" #"Data"
+dir_CmpVideo = "Videos/cmp"
+dir_RawVideo = "Videos/ori"
+dir_PQFLabel = "Data"
 dir_model = "Models"
 
 file_object = open("record_test.txt", 'w')
