@@ -4,9 +4,7 @@
 
 *arXiv: http://arxiv.org/abs/1902.09707*
 
-**Note1: This repository is available at [Dropbox](https://www.dropbox.com/sh/s9f9h7kdmetztz9/AAAz6Z1nEovKIqgDsXo34qFia?dl=0).**
-
-**Note2: We enhance PQFs with the help of their neighboring PQFs in this demo, instead of the single-frame approach DS-CNN in the arXiv paper.** The new approach here is much better than the arXiv version and also MFQEv1.0. The arXiv paper will be later updated.
+**Note: This repository is available at [Dropbox](https://www.dropbox.com/sh/s9f9h7kdmetztz9/AAAz6Z1nEovKIqgDsXo34qFia?dl=0).**
 
 ![Demo](./Fig1.png)
 
