@@ -3,6 +3,7 @@
 ***MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video***
 
 *arXiv: http://arxiv.org/abs/1902.09707*
+*IEEE: https://ieeexplore.ieee.org/document/8855019*
 
 **Note: This repository is available at [Dropbox](https://www.dropbox.com/sh/s9f9h7kdmetztz9/AAAz6Z1nEovKIqgDsXo34qFia?dl=0).**
 
@@ -57,6 +58,22 @@ Notice that we have only 5 models with QP22, 27, 32, 37, 42, so we should record
 **The average delta PSNR and delta SSIM results will be recorded in `record_test.txt`**, which are the same with the results presented in our paper:
 
 ![Result](./Result.png)
+
+# Citation
+```
+@ARTICLE{8855019,
+author={Z. {Guan} and Q. {Xing} and M. {Xu} and R. {Yang} and T. {Liu} and Z. {Wang}},
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+title={MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video},
+year={2019},
+volume={},
+number={},
+pages={1-1},
+keywords={Quality enhancement;compressed video;deep learning},
+doi={10.1109/TPAMI.2019.2944806},
+ISSN={},
+month={},}
+```
 
 # Notice
 
