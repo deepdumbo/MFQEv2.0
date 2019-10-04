@@ -2,9 +2,11 @@
 
 ***MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video***
 
++ Citation information: DOI 10.1109/TPAMI.2019.2944806, IEEE Transactions on Pattern Analysis and Machine Intelligence
+
 + *arXiv: http://arxiv.org/abs/1902.09707*
 
-+ *IEEE: https://ieeexplore.ieee.org/document/8855019*
++ *IEEE Early Access: https://ieeexplore.ieee.org/document/8855019*
 
 **Note: This repository is available at [Dropbox](https://www.dropbox.com/sh/s9f9h7kdmetztz9/AAAz6Z1nEovKIqgDsXo34qFia?dl=0).**
 
