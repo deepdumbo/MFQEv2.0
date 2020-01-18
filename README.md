@@ -7,7 +7,7 @@
 + **arXiv**: http://arxiv.org/abs/1902.09707
 + **IEEE Early Access (TPAMI)**: https://ieeexplore.ieee.org/document/8855019
 
-**Note**: This repository is available at [Dropbox](https://www.dropbox.com/sh/s9f9h7kdmetztz9/AAAz6Z1nEovKIqgDsXo34qFia?dl=0).（国内用户可访问：[北航云盘](https://bhpan.buaa.edu.cn:443/link/0EBF3709E3168E9A78206391258715A3)）
+**Note**: This repository is available at [Google Drive](https://drive.google.com/drive/folders/1L-d4ptHZWV_jLl6KGvY81CochKcoY4wj?usp=sharing).（国内用户可访问：[北航云盘](https://bhpan.buaa.edu.cn:443/link/0EBF3709E3168E9A78206391258715A3)）
 
 # Citation
 
@@ -38,7 +38,7 @@ month={},}
 
 ### Download raw and compressed yuv video
 
-We prepare a test video `BasketballPass_416x240_500.yuv` in our [Dropbox](https://www.dropbox.com/sh/s9f9h7kdmetztz9/AAAz6Z1nEovKIqgDsXo34qFia?dl=0). **Download the `Video` folder and put it in the same path with `main_test.py`.** 
+We prepare a test video `BasketballPass_416x240_500.yuv` in our [Google Drive](https://drive.google.com/drive/folders/1L-d4ptHZWV_jLl6KGvY81CochKcoY4wj?usp=sharing). **Download the `Video` folder and put it in the same path with `main_test.py`.** 
 
 Raw videos are stores in subfolder `ori`, while compressed videos are stored in subfolder `cmp`. 
 
